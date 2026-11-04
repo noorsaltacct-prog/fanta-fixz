@@ -6,7 +6,7 @@ Static site for Fata Fixz mobile mechanic. No build step.
 - `index.html` page markup
 - `styles.css` all styles (colors/fonts are CSS variables at the top)
 - `script.js` service explorer, quote flow, copy buttons
-- `assets/` logo and favicon
+- `assets/` logo, favicon and job photos (`work-*.webp`)
 - `vercel.json` Vercel config
 
 ## Deploy
