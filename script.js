@@ -49,7 +49,7 @@
   var flow=$('#flow');
   function msgText(){
     var s=byK[state.svc];
-    return 'Hi Fata Fixz, I need a quote.\nJob: '+(s?s.n:'')+'\nCar: '+state.car+'\nLocation: '+state.where+'\nWhen: '+state.when;
+    return 'Hi Fanta Fixz, I need a quote.\nJob: '+(s?s.n:'')+'\nCar: '+state.car+'\nLocation: '+state.where+'\nWhen: '+state.when;
   }
   function el(tag,cls,txt){var e=document.createElement(tag);if(cls)e.className=cls;if(txt!=null)e.textContent=txt;return e}
   function btn(label,cls,fn){var b=el('button','btn '+cls);b.type='button';b.appendChild(el('span','',label));b.addEventListener('click',fn);return b}

@@ -1,6 +1,6 @@
-# Fata Fixz
+# Fanta Fixz
 
-Static site for Fata Fixz mobile mechanic. No build step.
+Static site for Fanta Fixz mobile mechanic. No build step.
 
 ## Files
 - `index.html` page markup
